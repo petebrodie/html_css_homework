@@ -1,1 +1,30 @@
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif
+}
 
+    body > header {
+        background-color: dodgerblue;
+        color: white;
+        text-align: left;
+    }
+
+    nav > ul > li > a {
+        color: white;
+      }
+
+    ul {
+        list-style-type: none;
+        text-align: right;
+       }
+    
+    li {
+        display: inline;
+        
+      }
+
+    body > footer {
+        background-color: dodgerblue;
+        color: white;       
+        text-align: center;
+    }
